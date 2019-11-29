@@ -1,0 +1,14 @@
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\bin\Debug\netcoreapp2.0\TestingFramework.deps.json
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\bin\Debug\netcoreapp2.0\TestingFramework.runtimeconfig.json
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\bin\Debug\netcoreapp2.0\TestingFramework.runtimeconfig.dev.json
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\bin\Debug\netcoreapp2.0\TestingFramework.dll
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\bin\Debug\netcoreapp2.0\TestingFramework.pdb
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\obj\Debug\netcoreapp2.0\TestingFramework.csprojAssemblyReference.cache
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\obj\Debug\netcoreapp2.0\TestingFramework.csproj.CoreCompileInputs.cache
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\obj\Debug\netcoreapp2.0\TestingFramework.AssemblyInfoInputs.cache
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\obj\Debug\netcoreapp2.0\TestingFramework.AssemblyInfo.cs
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\obj\Debug\netcoreapp2.0\TestingFramework.dll
+D:\001-AleksandarLazarevic\001-Documents\002-VisualStudio\Projects\SeleniumWebdriverTestingFramework\TestingFramework\obj\Debug\netcoreapp2.0\TestingFramework.pdb
